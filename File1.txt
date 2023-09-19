@@ -1,0 +1,6 @@
+//My name is Deepakk Vignesh Jayamohan.
+//I added subraction function in the branch feature/A00473427
+
+int sub(int a, int b) {
+    return a-b;
+}
