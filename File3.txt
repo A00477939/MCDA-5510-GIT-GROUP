@@ -1,6 +1,8 @@
-//My name is Deepakk Vignesh Jayamohan.
-//I added average function in the branch feature/A00473427
-
 float avg(int a, int b) {
     return (a+b)/2;
+}
+
+
+public int pow (int a, int b) {
+    return Math.Pow(a,b);
 }
