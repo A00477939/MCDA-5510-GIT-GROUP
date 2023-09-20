@@ -1,0 +1,4 @@
+//A00477939(Hritik Shashi Arora)
+Public int max (int a, int b) {
+return a<b;
+}
